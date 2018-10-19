@@ -8,3 +8,5 @@ Cambios 2
 caracteristica 2
 
 sigo haciendo cambios
+
+commit 1 fastforward
